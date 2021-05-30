@@ -17,6 +17,7 @@ body{
     width: 80vw;
     border-radius: 10px;
     background-color: #fff;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0 , 0.2);
 }
 .drawer__img {
     width: 100%;
@@ -122,6 +123,7 @@ body{
     .card{
         display: flex;
         max-width: 750px;
+        margin-top: 150px;
     }
     .drawer__img{
         max-width: 350px;
